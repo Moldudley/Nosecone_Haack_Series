@@ -6,7 +6,9 @@
 
 ## Inputs
 
-- **C=_(Von_Karman:_1_3,_** (number)
+- **C** (number)
+- **Outer_Diameter** (number)
+- **Length** (number)
 
 
 
