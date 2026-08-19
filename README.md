@@ -4,6 +4,11 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **C=_(Von_Karman:_1_3,_** (number)
+
+
 
 
  
