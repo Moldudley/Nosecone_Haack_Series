@@ -9,6 +9,7 @@
 - **C** (number)
 - **Outer_Diameter** (number)
 - **Length** (number)
+- **Wall_Thickness** (number)
 
 
 
